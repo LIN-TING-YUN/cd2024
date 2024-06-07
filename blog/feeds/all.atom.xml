@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T08:19:28+08:00</updated><entry><title>2024 Spring 課程w6</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-30T13:58:00+08:00</published><updated>2024-06-07T08:19:28+08:00</updated><author><name>41023107</name></author><id>tag:None,2024-03-30:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T08:34:51+08:00</updated><entry><title>2024 Spring 課程w7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-06T13:58:00+08:00</published><updated>2024-06-07T08:34:51+08:00</updated><author><name>41023107</name></author><id>tag:None,2024-04-06:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;h1&gt;w7&lt;/h1&gt;
+&lt;p&gt;&lt;span&gt;協同產品設計實習的第七週, 正值春假期間, 用來回顧課程內容重點&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;要求各組員每週在倉儲的 Markdown 目錄編寫網誌文章，再使用 Pelican 轉換成超文件網誌，並存入各分組倉儲的 combined_markdown 目錄。為避免檔案衝突，網誌文章的檔案命名和 Slug 字串必須唯一。雖然組員可透過 Replit 連接到 Github 獲取個人倉儲的權限，但無法直接管理分組倉儲，需使用 OpenSSH 管理權限。整體流程旨在確保協同作業順利進行和有效管理檔案。&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;pan&amp;gt;&lt;/span&gt;&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w6</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-30T13:58:00+08:00</published><updated>2024-06-07T08:34:05+08:00</updated><author><name>41023107</name></author><id>tag:None,2024-03-30:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;w6&lt;/h1&gt;
